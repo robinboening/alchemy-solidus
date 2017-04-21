@@ -16,6 +16,6 @@ Gem::Specification.new do |gem|
   gem.version       = Alchemy::Solidus::VERSION
 
   gem.add_dependency('alchemy_cms', ['~> 3.2'])
-  gem.add_dependency('solidus', ['~> 1.0'])
+  gem.add_dependency('solidus', ['~> 2.0'])
   gem.add_dependency('deface', ['~> 1.0'])
 end
